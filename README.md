@@ -1,2 +1,3 @@
 # ProjectPages
-Repo for github pages for completed projects.
+
+Welcome to the landing page for the resume and selected projects for Phillip John Paine. 
